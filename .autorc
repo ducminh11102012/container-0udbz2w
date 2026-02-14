@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ducminh11102012",
+  "repo": "container-0udbz2w",
+  "name": "ducminh11102012",
+  "email": "ducminh@mail.dangminhhoa.edu.vn",
+}
